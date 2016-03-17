@@ -38,7 +38,30 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
     "oscarotero/env": "^1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/woocommerce": "dev-trunk",
+    "wpackagist-plugin/wordpress-seo": "dev-trunk",
+    "wpackagist-plugin/better-wp-security": "dev-trunk",
+    "wpackagist-plugin/jetpack": "dev-trunk",
+    "wpackagist-plugin/wordfence": "dev-trunk",
+    "wpackagist-plugin/tac": "dev-trunk",
+    "wpackagist-plugin/updraftplus": "dev-trunk",
+    "wpackagist-plugin/google-analytics-for-wordpress": "dev-trunk",
+    "wpackagist-plugin/yith-essential-kit-for-woocommerce-1": "dev-trunk",
+    "wpackagist-plugin/stealth-login-page": "dev-trunk",
+    "wpackagist-plugin/p3-profiler": "dev-trunk",
+    "wpackagist-plugin/seo-image-alt-tags": "dev-trunk",
+    "wpackagist-plugin/sucuri-scanner": "dev-trunk",
+    "wpackagist-plugin/bulletproof-security": "dev-trunk",
+    "wpackagist-plugin/woocommerce-customizer": "dev-trunk",
+    "wpackagist-plugin/smart-manager-for-wp-e-commerce": "dev-trunk",
+    "wpackagist-plugin/tinymce-advanced": "dev-trunk",
+    "wpackagist-plugin/contact-form-7": "dev-trunk",
+    "wpackagist-plugin/black-studio-tinymce-widget": "dev-trunk",
+    "wpackagist-plugin/wp-edit": "dev-trunk",
+    "wpackagist-theme/storefront": "*",
+    "wpackagist-theme/pinnacle": "*"
+
   },
   "extra": {
     "installer-paths": {
