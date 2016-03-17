@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c58e31af376ec3f54af548d53e089947",
-    "content-hash": "b6e16dd028390efcfd23d31dad752ec7",
+    "hash": "00e8a34e6060273c7125959a68087e4e",
+    "content-hash": "91fc21595f6207646dba64f0a5e12583",
     "packages": [
         {
             "name": "composer/installers",
@@ -345,7 +345,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/better-wp-security/",
+                "url": "https://plugins.svn.wordpress.org/better-wp-security/",
                 "reference": "trunk"
             },
             "dist": {
@@ -366,7 +366,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/black-studio-tinymce-widget/",
+                "url": "https://plugins.svn.wordpress.org/black-studio-tinymce-widget/",
                 "reference": "trunk"
             },
             "dist": {
@@ -387,7 +387,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/bulletproof-security/",
+                "url": "https://plugins.svn.wordpress.org/bulletproof-security/",
                 "reference": "trunk"
             },
             "dist": {
@@ -408,7 +408,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/contact-form-7/",
+                "url": "https://plugins.svn.wordpress.org/contact-form-7/",
                 "reference": "trunk"
             },
             "dist": {
@@ -429,7 +429,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
+                "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
                 "reference": "trunk"
             },
             "dist": {
@@ -450,7 +450,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/jetpack/",
+                "url": "https://plugins.svn.wordpress.org/jetpack/",
                 "reference": "trunk"
             },
             "dist": {
@@ -471,7 +471,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/p3-profiler/",
+                "url": "https://plugins.svn.wordpress.org/p3-profiler/",
                 "reference": "trunk"
             },
             "dist": {
@@ -492,7 +492,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/seo-image-alt-tags/",
+                "url": "https://plugins.svn.wordpress.org/seo-image-alt-tags/",
                 "reference": "trunk"
             },
             "dist": {
@@ -513,7 +513,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/smart-manager-for-wp-e-commerce/",
+                "url": "https://plugins.svn.wordpress.org/smart-manager-for-wp-e-commerce/",
                 "reference": "trunk"
             },
             "dist": {
@@ -534,7 +534,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/stealth-login-page/",
+                "url": "https://plugins.svn.wordpress.org/stealth-login-page/",
                 "reference": "trunk"
             },
             "dist": {
@@ -555,7 +555,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/sucuri-scanner/",
+                "url": "https://plugins.svn.wordpress.org/sucuri-scanner/",
                 "reference": "trunk"
             },
             "dist": {
@@ -576,7 +576,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/tac/",
+                "url": "https://plugins.svn.wordpress.org/tac/",
                 "reference": "trunk"
             },
             "dist": {
@@ -597,7 +597,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/tinymce-advanced/",
+                "url": "https://plugins.svn.wordpress.org/tinymce-advanced/",
                 "reference": "trunk"
             },
             "dist": {
@@ -618,7 +618,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/updraftplus/",
+                "url": "https://plugins.svn.wordpress.org/updraftplus/",
                 "reference": "trunk"
             },
             "dist": {
@@ -635,11 +635,32 @@
             "time": "2016-02-27 18:08:49"
         },
         {
+            "name": "wpackagist-plugin/virtue-toolkit",
+            "version": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/virtue-toolkit/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/virtue-toolkit.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/virtue-toolkit/",
+            "time": "2015-11-19 23:44:16"
+        },
+        {
             "name": "wpackagist-plugin/woocommerce",
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/woocommerce/",
+                "url": "https://plugins.svn.wordpress.org/woocommerce/",
                 "reference": "trunk"
             },
             "dist": {
@@ -660,7 +681,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/woocommerce-customizer/",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-customizer/",
                 "reference": "trunk"
             },
             "dist": {
@@ -681,7 +702,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/wordfence/",
+                "url": "https://plugins.svn.wordpress.org/wordfence/",
                 "reference": "trunk"
             },
             "dist": {
@@ -702,7 +723,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/wordpress-seo/",
+                "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
                 "reference": "trunk"
             },
             "dist": {
@@ -723,7 +744,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/wp-edit/",
+                "url": "https://plugins.svn.wordpress.org/wp-edit/",
                 "reference": "trunk"
             },
             "dist": {
@@ -744,7 +765,7 @@
             "version": "dev-trunk",
             "source": {
                 "type": "svn",
-                "url": "http://plugins.svn.wordpress.org/yith-essential-kit-for-woocommerce-1/",
+                "url": "https://plugins.svn.wordpress.org/yith-essential-kit-for-woocommerce-1/",
                 "reference": "trunk"
             },
             "dist": {
@@ -765,7 +786,7 @@
             "version": "1.3.6",
             "source": {
                 "type": "svn",
-                "url": "http://themes.svn.wordpress.org/pinnacle/",
+                "url": "https://themes.svn.wordpress.org/pinnacle/",
                 "reference": "1.3.6"
             },
             "dist": {
@@ -785,7 +806,7 @@
             "version": "1.6.1",
             "source": {
                 "type": "svn",
-                "url": "http://themes.svn.wordpress.org/storefront/",
+                "url": "https://themes.svn.wordpress.org/storefront/",
                 "reference": "1.6.1"
             },
             "dist": {
@@ -824,7 +845,8 @@
         "wpackagist-plugin/tinymce-advanced": 20,
         "wpackagist-plugin/contact-form-7": 20,
         "wpackagist-plugin/black-studio-tinymce-widget": 20,
-        "wpackagist-plugin/wp-edit": 20
+        "wpackagist-plugin/wp-edit": 20,
+        "wpackagist-plugin/virtue-toolkit": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

@@ -59,6 +59,7 @@
     "wpackagist-plugin/contact-form-7": "dev-trunk",
     "wpackagist-plugin/black-studio-tinymce-widget": "dev-trunk",
     "wpackagist-plugin/wp-edit": "dev-trunk",
+    "wpackagist-plugin/virtue-toolkit": "dev-trunk",
     "wpackagist-theme/storefront": "*",
     "wpackagist-theme/pinnacle": "*"
 
